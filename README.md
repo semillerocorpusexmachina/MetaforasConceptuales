@@ -3,7 +3,7 @@
 
 ## Pasos para generar documentos y cargar a la Wiki
 
-1. Una vez instaladas, se debe exportar la información a CSV, 1 archivo por cada fuente de datos.
+1. Una vez instaladas las dependencias, se debe exportar la información a CSV, 1 archivo por cada fuente de datos.
 
 2. Cuando se tenga la información en CSV, se deben ejecutar los scripts que contienen sufijo CSV en el orden de la numeración **1.GenerarEstructuraDominio.py** y así sucesivamente.
 
